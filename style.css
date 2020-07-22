@@ -27,6 +27,7 @@ ul li{
    width: 60px;
    margin-top: -7px;
    margin-right: 48px;
+   border-radius: 20% ;
 }
 .sign{
    top:40px ; 
