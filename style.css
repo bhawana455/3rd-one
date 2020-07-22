@@ -74,12 +74,14 @@ ul li{
 .app-picture{
     width: 50%;
     float: right;
+    
 }
 .app-picture img{
     height:50% ;
     width: 60%;
     margin-top:-60px;
     padding-left:200px;
+    
 }
 .play-btn{
   margin-left:40px ;  
